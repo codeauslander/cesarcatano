@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import cesarImage from '.././img/cesar4.png';
 
 
 class Landing extends Component {
   render() {
-    return(
+    return (
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Symbole_du_clan_senju.svg/2000px-Symbole_du_clan_senju.svg.png"
+              src={cesarImage}
               alt="avatar"
               className="avatar-img"
               />
@@ -19,7 +20,9 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>Ruby On Rails | Spring Java | Vuejs | Reactjs | SQL | MongoDB</p>
+          <p> Ruby On Rails | Vuejs | Reactjs | SQL | MongoDB | Java </p>
+          <p>I create project that may or may not seriously break the universe</p>
+          
 
         <div className="social-links">
 
