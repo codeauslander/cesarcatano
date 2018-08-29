@@ -16,9 +16,7 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>I CREATE PROJECTS THAT 
-MAY OR MAY NOT SERIOUSLY 
-BREAK THE UNIVERSE</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>I create projects that may or may not seriously break the universe</p>
 
           </Cell>
           <Cell col={6}>

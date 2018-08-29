@@ -21,7 +21,7 @@ class Landing extends Component {
             <hr/>
 
           <p> Ruby On Rails | Vuejs | Reactjs | SQL | MongoDB | Java </p>
-          <p>I create project that may or may not seriously break the universe</p>
+          <p>I create projects that may or may not seriously break the universe</p>
           
 
         <div className="social-links">
